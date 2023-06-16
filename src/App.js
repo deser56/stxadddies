@@ -1,5 +1,5 @@
 import React from "react";
-import React, { useEffect, useState } from 'react';
+import  { useEffect, useState } from 'react';
 import "./style.css";
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
